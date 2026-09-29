@@ -9,15 +9,15 @@ This program includes adding expenses , storing them as records and dipslaying t
 
 ## 2. Overview of the Project
 
-Personal Expense Tracker is a simple Python-based console application used to manage daily expenses.
+Personal Expense Tracker is a Python-based console application used to manage daily expenses.
 
-The program allows the user to add, view, search, update, and delete expenses. It also calculates the total amount of all recorded expenses.
+The program allows the us to add, view, search, update, and delete expenses. It also calculates the total amount of all recorded expenses.
 
 This project is designed as a beginner-level Python project and demonstrates the use of functions, lists, dictionaries, loops, conditional statements, user input, and basic Python operations.
 
 ## 3. Features
 
-The project provides the following features:
+The project has the following features:
 
 * **Add Expense** – Add a new expense by entering the date, category, and amount.
 * **View Expenses** – Display all the expenses stored in the program.
@@ -167,4 +167,4 @@ Thank you
 and terminate.
 ## 8. Conclusion
 
-The Personal Expense Tracker is a simple Python project that helps users manage their expenses through a menu-driven console application. It demonstrates basic Python programming concepts and provides practical implementation of functions, lists, dictionaries, loops, and conditional statements.
+The Personal Expense Tracker is a Python project that helps users manage their expenses through a menu-driven console application. It demonstrates us about Python programming concepts and provides practical implementation of functions, lists, dictionaries, loops, and conditional statements.
